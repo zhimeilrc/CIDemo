@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhimeilrc/CIDemo/issues"
   },
-  "homepage": "https://github.com/zhimeilrc/CIDemo#readme"
+  "homepage": "https://github.com/zhimeilrc/CIDemo#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
