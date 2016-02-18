@@ -1,0 +1,19 @@
+{
+  "name": "cidemo",
+  "version": "1.0.0",
+  "description": "CI Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhimeilrc/CIDemo.git"
+  },
+  "author": "Teddy Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhimeilrc/CIDemo/issues"
+  },
+  "homepage": "https://github.com/zhimeilrc/CIDemo#readme"
+}
